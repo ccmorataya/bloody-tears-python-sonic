@@ -9,7 +9,7 @@ use_synth(SAW)
 
 @in_thread
 def octave_six():
-    # group_00
+    # group_00_oct6
     sleep(0.25)
     sleep(0.25)
     play(F6)
@@ -36,7 +36,7 @@ def octave_six():
     sleep(0.25)
     play(C6)
     sleep(0.25)
-    # group_01
+    # group_01_oct6
     sleep(0.25)
     sleep(0.25)
     play(C6)
@@ -66,7 +66,7 @@ def octave_six():
 
 @in_thread
 def octave_five():
-    # group_00
+    # group_00_oct5
     play(As5)
     play(F5)
     sleep(0.25)
@@ -93,7 +93,7 @@ def octave_five():
     play(F5)
     sleep(0.25)
     play(F5)
-    # group_01
+    # group_01_oct5
     play(Gs5)
     play(F5)
     sleep(0.25)
@@ -123,7 +123,7 @@ def octave_five():
 
 @in_thread
 def octave_three():
-    # group_00
+    # group_00_oct3
     sleep(0.25)
     sleep(0.25)
     sleep(0.25)
@@ -153,7 +153,7 @@ def octave_three():
 
 @in_thread
 def octave_two():
-    # group_00
+    # group_00_oct2
     play(As2)
     sleep(0.25)
     sleep(0.25)
@@ -180,7 +180,7 @@ def octave_two():
     sleep(0.25)
     sleep(0.25)
     sleep(0.25)
-    # group_01
+    # group_01_oct2
     sleep(0.25)
     sleep(0.25)
     sleep(0.25)
