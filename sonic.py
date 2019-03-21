@@ -5,7 +5,7 @@ F6 = 89
 Ds6 = 87
 Cs6 = 85
 
-use_synth(SAW)
+use_synth(PIANO)
 
 @in_thread
 def octave_six():
