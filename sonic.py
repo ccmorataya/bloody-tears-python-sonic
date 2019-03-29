@@ -7,208 +7,173 @@ Cs6 = 85
 
 use_synth(PIANO)
 
-@in_thread
-def octave_six():
-    # group_00_oct6
-    sleep(0.23)
-    sleep(0.23)
+def group_zero():
+    # oct5
+    play(As5)      
+    # oct2
+    play(As2)
+    sleep(0.13)
+    play(F5)       
+    sleep(0.13)
+    # oct6
     play(F6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)       
+    sleep(0.13)
+    # oct6
     play(Ds6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)       
+    sleep(0.13)
+    # oct6
     play(Cs6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)       
+    sleep(0.13)
+    # oct6
     play(C6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)       
+    sleep(0.13)
+    # oct6
     play(Cs6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)
+    sleep(0.13)
+    # oct6
     play(C6)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)
+    sleep(0.13)
+    # oct5
+    play(As5)
+    sleep(0.13)
+    # oct5
+    play(F5)
+    sleep(0.13)
+    # oct6
+    play(F2)
     play(C6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)
+    sleep(0.13)
+    # oct6
     play(Cs6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct5
+    play(F5)
+    sleep(0.13)
+    # oct6
     play(Ds6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct6
+    play(F5)
+    sleep(0.13)
+    # oct6
     play(Cs6)
-    sleep(0.23)
+    sleep(0.13)
+    # oct6
+    play(F5)
+    sleep(0.13)
+    # oct6
     play(C6)
-    sleep(0.23)
-    # group_01_oct6
-    sleep(0.23)
-    sleep(0.23)
-    play(C6)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    play(F6)
-    sleep(0.23)
-    play(Ds6)
-    sleep(0.23)
-    play(Cs6)
-    sleep(0.23)
-    play(C6)
-    sleep(0.23)
-    play(Cs6)
-    sleep(0.23)
-    play(C6)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    play(C6)
-    sleep(0.23)
-    play(Cs6)
-    sleep(0.23)
-
-@in_thread
-def octave_five():
-    # group_00_oct5
-    play(As5)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    play(As5)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    # group_01_oct5
-    play(Gs5)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    play(As5)
-    play(F5)
-    play(As5)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    play(As5)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-    sleep(0.23)
-    play(F5)
-
-@in_thread
-def octave_three():
-    # group_00_oct3
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
+    sleep(0.13)
     play(F3)
-    sleep(0.23)
+    # oct6
+    play(F5)
+    sleep(0.13)
 
-@in_thread
-def octave_two():
-    # group_00_oct2
+def group_one():
+    # octave5
+    play(Gs5)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(C6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave5
+    play(As5)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave5
     play(As2)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
+    play(As5)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(F6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(Ds6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(Cs6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(C6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(Cs6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(C6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave5
+    play(As5)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
     play(F2)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    # group_01_oct2
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    play(As2)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
-    play(F2)
-    sleep(0.23)
-    sleep(0.23)
-    sleep(0.23)
+    play(C6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
+    # octave6
+    play(Cs6)
+    sleep(0.13)
+    # octave5
+    play(F5)
+    sleep(0.13)
 
-octave_six()
-octave_five()
-octave_three()
-octave_two()
+group_zero()
+group_one()
+# octave_five()
+# octave_three()
+# octave_two()
