@@ -8,10 +8,10 @@ Cs6 = 85
 use_synth(PIANO)
 
 def group_zero():
-    # oct2      # oct3      # oct4      #oct5
-    play(As2);                          play(As5)      
-    sleep(0.13)
-    pass;                               play(F5)       
+    # pass      # oct2      # oct3      # oct4      #oct5
+    pass;       play(As2);                          play(As5)      
+    pass;       sleep(0.13)
+    pass;                                           play(F5)       
     sleep(0.13)
     # oct6
     play(F6)
