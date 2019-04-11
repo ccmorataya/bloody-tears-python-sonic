@@ -9,488 +9,1917 @@ As6 = 94
 use_synth(PIANO)
 
 def group_zero():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                   play(As2);                          play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                    play(F6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(Ds6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                   play(F2);                                       play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Ds6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                               play(F3);               play(F5)
-    pass;       sleep(0.13)
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    # sleep
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(F6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Ds6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Ds6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
 
 def group_one():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                                                       play(Gs5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                   play(As2)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(F6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Ds6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                   play(F2)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
+    # oct6
+    play(Gs5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(F6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Ds6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 def group_two():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                                                                   play(Ds6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                                                                    play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                               play(F3);                            play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                       play(Gs5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;                   play(As6);                          play(C5)
-    pass;                                                       play(D5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(As3);              play(Ds5)
-    pass;                                                       play(Gs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(F5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(C4)
-    pass;       sleep(0.13)
-    pass;                               play(As3)
-    pass;       sleep(0.13)
-    pass;                                           play(C4)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(Cs4)
-    pass;       sleep(0.13)
-    pass;                   play(Cs2)
-    pass;       sleep(0.13)
-    pass;                               play(As3);  play(Ds4)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(Fs4);  play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
+    play(Ds6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(As6)
+    play(C5)
+    play(D5)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    play(Gs5)
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(C4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(C4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Cs4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Cs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Ds4)
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    # oct5
+    play(Fs4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 def group_three():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                               play(As3);              play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(Gs5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);              play(F5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);                          play(Cs5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);              play(Gs5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);                           play(F5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(Ds4)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(Cs4)
-    pass;       sleep(0.13)
-    pass;                                           play(Ds4)
-    pass;       sleep(0.13)
+    # oct6
+    play(Cs5)
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    play(Cs5)
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(Ds5)
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Ds4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Cs4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    play(Ds4)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 def group_four():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                   play(Fs2);              play(F4)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(Fs4)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(Gs4);  play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(As5);  play(F5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(F2);                           play(Fs5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;                   play(F2)       
-    pass;       sleep(0.13)
-    pass;                               play(F3)
-    pass;       sleep(0.13)
-    pass;                   play(F2);                           play(Gs5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                                                       play(F3)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(F2);               play(As4);  play(F5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(F3)
-    pass;       sleep(0.13)
-    pass;                                           play(As4);  play(Fs5)
-    pass;       sleep(0.13)
-    pass;                   play(F2)
-    pass;       sleep(0.13)
-    pass;                   play(F2)
-    pass;       sleep(0.13)
-    pass;                               play(F3)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
+    # oct6
+    # oct5
+    play(F4)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Fs4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    # oct5
+    play(Gs4)
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    play(As5)
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Fs5)
+    play(C5)
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(C5)
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    play(As4)
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Fs5)
+    play(As4)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 def group_five():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                               play(As3);              play(Ds5)
-    pass;                                                       play(Gs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(Cs5)
-    pass;                                                        play(F5)
-    pass;       sleep(0.13)
-    pass;                   play(As2)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(C4)
-    pass;       sleep(0.13)
-    pass;                               play(As3)
-    pass;       sleep(0.13)
-    pass;                                           play(C4)       
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(Cs4)
-    pass;       sleep(0.13)
-    pass;                   play(As2)       
-    pass;       sleep(0.13)
-    pass;                               play(As3);  play(Ds4)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(F4);   play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(As3);              play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(Ds5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(Gs5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);              play(Cs5)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
+    # oct6
+    play(Ds5)
+    play(Gs5)
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    play(F5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(C4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(C4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Cs4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Ds4)
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    # oct5
+    play(F4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    play(Gs3)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 def group_six():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                   play(Gs2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);                          play(Ds5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);              play(Gs5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);                          play(F5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(Ds4)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(Cs4)
-    pass;       sleep(0.13)
-    pass;                                           play(Ds4)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(F4)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(Fs4)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(Gs4);  play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);  play(As4);  play(F5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(F2);                           play(Fs5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;                   play(F2)
-    pass;       sleep(0.13)
-    pass;                               play(F3)
-    pass;       sleep(0.13)
-    pass;                   play(F2);                           play(Gs5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(F2)
-    pass;       sleep(0.13)
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(Ds5)
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Ds4)
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Cs4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Ds4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(F4)
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Fs4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    # oct5
+    play(Gs4)
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    play(As4)
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Fs5)
+    play(C5)
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    play(C5)
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
 
 def group_seven():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                               play(F3)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(F2);               play(A4)
-    pass;       sleep(0.13)
-    pass;                               play(F3);               play(A5)       
-    pass;                                                       play(F5)       
-    pass;       sleep(0.13)
-    pass;                   play(G2);               play(As4)
-    pass;       sleep(0.13)
-    pass;                               play(G3);               play(G5)       
-    pass;                                                       play(As5)       
-    pass;       sleep(0.13)
-    pass;                   play(A2);                           play(C5)
-    pass;       sleep(0.13)
-    pass;                               play(A3);               play(A5);   play(C6)
-    pass;       sleep(0.13)
-    pass;                               play(C3);               play(Cs5)
-    pass;       sleep(0.13)
-    pass;                                           play(C4);  play(As5);  play(Cs6)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(As2);              play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(As3)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(Ds5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);              play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;                                                       play(F5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(As5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3)
-    pass;       sleep(0.13)
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(A4)
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    play(A5)
+    play(F5)
+    # oct4
+    play(F3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(As4)
+    # oct3
+    play(G2)
+    sleep(0.11)
+
+    # oct6
+    play(G5)
+    play(As5)
+    # oct4
+    play(G3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    # oct5
+    # oct4
+    # oct3
+    play(A2)
+    sleep(0.11)
+
+    play(C6)
+    play(A5)
+    # oct5
+    # oct4
+    play(A3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    # oct4
+    play(C3)
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    play(As5)
+    # oct5
+    play(C4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(F5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
 
 def group_eight():
-    # pass      # sleep     # oct2      # oct3      # oct4      # oct5      # oct6
-    pass;                   play(F2);                           play(Ds5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);              play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                   play(Fs2);                          play(Cs5)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                               play(Fs3)       
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(Cs5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)       
-    pass;       sleep(0.13)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;                                                                   play(C6)       
-    pass;       sleep(0.13)
-    pass;                                                                   play(Cs6)
-    pass;       sleep(0.13)
-    pass;                                           play(As4)
-    pass;       sleep(0.13)
-    pass;                                                       play(As5)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);              play(Gs4)
-    pass;       sleep(0.13)
-    pass;                               play(Gs3);              play(Gs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(Ds5)
-    pass;                                                       play(C5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                                           play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(As5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                                           play(As4);  play(Cs5)
-    pass;       sleep(0.13)
-    pass;                   play(As2);                          play(As5)
-    pass;                                                       play(Cs5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
-    pass;                               play(As3)
-    pass;       sleep(0.13)
-    pass;                   play(Gs2);                          play(C5)
-    pass;                                                       play(Ds5)
-    pass;       sleep(0.13)
-    pass;       sleep(0.13)
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(F2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    play(As5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Fs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Gs4)
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    play(Gs5)
+    # oct5
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(Cs5)
+    # oct5
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(As5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.11)
+
+    # oct6
+    play(C5)
+    play(Ds5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.11)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.11)
 
 group_zero()
 group_one()
