@@ -9,14 +9,6 @@ use_synth(PIANO)
 
 def group_zero():
     # oct6
-    # oct5
-    # oct5
-    # oct4
-    # oct3
-    # oct2
-    # sleep
-
-    # oct6
     play(As5)
     # oct5
     # oct4
