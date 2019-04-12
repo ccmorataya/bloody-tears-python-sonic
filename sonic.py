@@ -4,7 +4,6 @@ import random
 F6 = 89
 Ds6 = 87
 Cs6 = 85
-As6 = 94
 
 use_synth(PIANO)
 
