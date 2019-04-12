@@ -531,12 +531,12 @@ def group_two():
     # oct2
     sleep(0.115)
 
-    play(As6)
+    # oct6
+    play(Ds5)
     play(C5)
-    play(D5)
     # oct4
     # oct3
-    # oct2
+    play(As2)
     sleep(0.115)
 
     # oct6
