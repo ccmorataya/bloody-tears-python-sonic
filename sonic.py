@@ -23,7 +23,7 @@ def group_zero():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -31,7 +31,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(F6)
     # oct5
@@ -39,7 +39,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -47,7 +47,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -55,7 +55,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -63,7 +63,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -71,7 +71,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -79,7 +79,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -87,7 +87,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -95,7 +95,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -103,7 +103,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -111,7 +111,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -119,7 +119,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -127,7 +127,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -135,7 +135,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -143,7 +143,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -151,7 +151,7 @@ def group_zero():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -159,7 +159,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -167,7 +167,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -175,7 +175,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -183,7 +183,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -191,7 +191,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -199,7 +199,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -207,7 +207,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -215,7 +215,7 @@ def group_zero():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -223,7 +223,7 @@ def group_zero():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_one():
     # oct6
@@ -232,7 +232,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -240,7 +240,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -248,7 +248,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -256,7 +256,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -264,7 +264,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -272,7 +272,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -280,7 +280,7 @@ def group_one():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -288,7 +288,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(F6)
     # oct5
@@ -296,7 +296,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -304,7 +304,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -312,7 +312,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -320,7 +320,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -328,7 +328,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -336,7 +336,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -344,7 +344,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -352,7 +352,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -360,7 +360,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -368,7 +368,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -376,7 +376,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -384,7 +384,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -392,7 +392,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -400,7 +400,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -408,7 +408,7 @@ def group_one():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -416,7 +416,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -424,7 +424,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -432,7 +432,7 @@ def group_one():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_two():
     play(Ds6)
@@ -441,7 +441,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -449,7 +449,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -457,7 +457,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -465,7 +465,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -473,7 +473,7 @@ def group_two():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -481,7 +481,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -489,7 +489,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -497,7 +497,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -505,7 +505,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -513,7 +513,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -521,7 +521,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -529,7 +529,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -537,7 +537,7 @@ def group_two():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -545,7 +545,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -553,7 +553,7 @@ def group_two():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -561,7 +561,7 @@ def group_two():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -569,7 +569,7 @@ def group_two():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -577,7 +577,7 @@ def group_two():
     play(C4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -585,7 +585,7 @@ def group_two():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -593,7 +593,7 @@ def group_two():
     play(C4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -601,7 +601,7 @@ def group_two():
     play(Cs4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -609,7 +609,7 @@ def group_two():
     # oct4
     # oct3
     play(Cs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -617,7 +617,7 @@ def group_two():
     play(Ds4)
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -625,7 +625,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -633,7 +633,7 @@ def group_two():
     play(Fs4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -641,7 +641,7 @@ def group_two():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_three():
     # oct6
@@ -650,7 +650,7 @@ def group_three():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -658,7 +658,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -666,7 +666,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -674,7 +674,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -682,7 +682,7 @@ def group_three():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -690,7 +690,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -698,7 +698,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -706,7 +706,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -714,7 +714,7 @@ def group_three():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -722,7 +722,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -730,7 +730,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -738,7 +738,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -746,7 +746,7 @@ def group_three():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -754,7 +754,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -762,7 +762,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -770,7 +770,7 @@ def group_three():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -778,7 +778,7 @@ def group_three():
     play(As4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -786,7 +786,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -794,7 +794,7 @@ def group_three():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -802,7 +802,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -810,7 +810,7 @@ def group_three():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -818,7 +818,7 @@ def group_three():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -826,7 +826,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -834,7 +834,7 @@ def group_three():
     play(Ds4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -842,7 +842,7 @@ def group_three():
     play(Cs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -850,7 +850,7 @@ def group_three():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_four():
     # oct6
@@ -859,7 +859,7 @@ def group_four():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -867,7 +867,7 @@ def group_four():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -875,7 +875,7 @@ def group_four():
     play(Fs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -883,7 +883,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -891,7 +891,7 @@ def group_four():
     play(Gs4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -899,7 +899,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -907,7 +907,7 @@ def group_four():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -915,7 +915,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Fs5)
@@ -923,7 +923,7 @@ def group_four():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -931,7 +931,7 @@ def group_four():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -939,7 +939,7 @@ def group_four():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -947,7 +947,7 @@ def group_four():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -955,7 +955,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -963,7 +963,7 @@ def group_four():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -971,7 +971,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -979,7 +979,7 @@ def group_four():
     play(As4)
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -987,7 +987,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -995,7 +995,7 @@ def group_four():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Fs5)
@@ -1003,7 +1003,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1011,7 +1011,7 @@ def group_four():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1019,7 +1019,7 @@ def group_four():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1027,7 +1027,7 @@ def group_four():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1035,7 +1035,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -1043,7 +1043,7 @@ def group_four():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1051,7 +1051,7 @@ def group_four():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_five():
     # oct6
@@ -1060,7 +1060,7 @@ def group_five():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1068,7 +1068,7 @@ def group_five():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1076,7 +1076,7 @@ def group_five():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1084,7 +1084,7 @@ def group_five():
     play(C4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1092,7 +1092,7 @@ def group_five():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1100,7 +1100,7 @@ def group_five():
     play(C4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1108,7 +1108,7 @@ def group_five():
     play(Cs4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1116,7 +1116,7 @@ def group_five():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1124,7 +1124,7 @@ def group_five():
     play(Ds4)
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1132,7 +1132,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1140,7 +1140,7 @@ def group_five():
     play(F4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1148,7 +1148,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1156,7 +1156,7 @@ def group_five():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1164,7 +1164,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1172,7 +1172,7 @@ def group_five():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1180,7 +1180,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1188,7 +1188,7 @@ def group_five():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -1196,7 +1196,7 @@ def group_five():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1204,7 +1204,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1212,7 +1212,7 @@ def group_five():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1220,7 +1220,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1228,7 +1228,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1236,7 +1236,7 @@ def group_five():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1244,7 +1244,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1252,7 +1252,7 @@ def group_five():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1260,7 +1260,7 @@ def group_five():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_six():
     # oct6
@@ -1269,7 +1269,7 @@ def group_six():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1277,7 +1277,7 @@ def group_six():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1285,7 +1285,7 @@ def group_six():
     play(As4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1293,7 +1293,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1301,7 +1301,7 @@ def group_six():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1309,7 +1309,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -1317,7 +1317,7 @@ def group_six():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -1325,7 +1325,7 @@ def group_six():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1333,7 +1333,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1341,7 +1341,7 @@ def group_six():
     play(Ds4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1349,7 +1349,7 @@ def group_six():
     play(Cs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1357,7 +1357,7 @@ def group_six():
     play(Ds4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1365,7 +1365,7 @@ def group_six():
     play(F4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1373,7 +1373,7 @@ def group_six():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1381,7 +1381,7 @@ def group_six():
     play(Fs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1389,7 +1389,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1397,7 +1397,7 @@ def group_six():
     play(Gs4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1405,7 +1405,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -1413,7 +1413,7 @@ def group_six():
     play(As4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1421,7 +1421,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Fs5)
@@ -1429,7 +1429,7 @@ def group_six():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1437,7 +1437,7 @@ def group_six():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1445,7 +1445,7 @@ def group_six():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -1453,7 +1453,7 @@ def group_six():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1461,7 +1461,7 @@ def group_six():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1469,7 +1469,7 @@ def group_six():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
 def group_seven():
     # oct6
@@ -1478,7 +1478,7 @@ def group_seven():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1486,7 +1486,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1494,7 +1494,7 @@ def group_seven():
     play(A4)
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(A5)
@@ -1502,7 +1502,7 @@ def group_seven():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1510,7 +1510,7 @@ def group_seven():
     play(As4)
     # oct3
     play(G2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(G5)
@@ -1518,7 +1518,7 @@ def group_seven():
     # oct4
     play(G3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -1526,7 +1526,7 @@ def group_seven():
     # oct4
     # oct3
     play(A2)
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     play(A5)
@@ -1534,7 +1534,7 @@ def group_seven():
     # oct4
     play(A3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1542,7 +1542,7 @@ def group_seven():
     # oct4
     play(C3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     play(As5)
@@ -1550,7 +1550,7 @@ def group_seven():
     play(C4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -1558,7 +1558,7 @@ def group_seven():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1566,7 +1566,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1574,7 +1574,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1582,7 +1582,7 @@ def group_seven():
     play(As4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1590,7 +1590,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1598,7 +1598,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1606,7 +1606,7 @@ def group_seven():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1614,7 +1614,7 @@ def group_seven():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1622,7 +1622,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1630,7 +1630,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1638,7 +1638,7 @@ def group_seven():
     play(As4)
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -1646,7 +1646,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1654,7 +1654,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1662,7 +1662,7 @@ def group_seven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -1670,7 +1670,7 @@ def group_seven():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1678,7 +1678,7 @@ def group_seven():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_eight():
     # oct6
@@ -1687,7 +1687,7 @@ def group_eight():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1695,7 +1695,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1703,7 +1703,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1711,7 +1711,7 @@ def group_eight():
     play(As4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1719,7 +1719,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1727,7 +1727,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -1735,7 +1735,7 @@ def group_eight():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1743,7 +1743,7 @@ def group_eight():
     # oct4
     play(Fs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1751,7 +1751,7 @@ def group_eight():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -1759,7 +1759,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -1767,7 +1767,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -1775,7 +1775,7 @@ def group_eight():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1783,7 +1783,7 @@ def group_eight():
     play(As4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -1791,7 +1791,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1799,7 +1799,7 @@ def group_eight():
     play(Gs4)
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -1807,7 +1807,7 @@ def group_eight():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -1815,7 +1815,7 @@ def group_eight():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1823,7 +1823,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1831,7 +1831,7 @@ def group_eight():
     play(As4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1839,7 +1839,7 @@ def group_eight():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1847,7 +1847,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1855,7 +1855,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1863,7 +1863,7 @@ def group_eight():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1871,7 +1871,7 @@ def group_eight():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1879,7 +1879,7 @@ def group_eight():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1887,7 +1887,7 @@ def group_eight():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_nine():
     # oct6
@@ -1896,7 +1896,7 @@ def group_nine():
     play(As4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1904,7 +1904,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1912,7 +1912,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1920,7 +1920,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1928,7 +1928,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1936,7 +1936,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -1944,7 +1944,7 @@ def group_nine():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1952,7 +1952,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1960,7 +1960,7 @@ def group_nine():
     play(As4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -1968,7 +1968,7 @@ def group_nine():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1976,7 +1976,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1984,7 +1984,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -1992,7 +1992,7 @@ def group_nine():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2000,7 +2000,7 @@ def group_nine():
     # oct4
     play(Fs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     play(Cs5)
@@ -2008,7 +2008,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2016,7 +2016,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     play(Ds5)
@@ -2024,7 +2024,7 @@ def group_nine():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2032,7 +2032,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2040,7 +2040,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     play(Cs5)
@@ -2048,7 +2048,7 @@ def group_nine():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2056,7 +2056,7 @@ def group_nine():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2064,7 +2064,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -2072,7 +2072,7 @@ def group_nine():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2080,7 +2080,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(F6)
     # oct5
@@ -2088,7 +2088,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2096,7 +2096,7 @@ def group_nine():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_ten():
     play(Ds6)
@@ -2105,7 +2105,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2113,7 +2113,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2121,7 +2121,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2129,7 +2129,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2137,7 +2137,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2145,7 +2145,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2153,7 +2153,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2161,7 +2161,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2169,7 +2169,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2177,7 +2177,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -2185,7 +2185,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2193,7 +2193,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2201,7 +2201,7 @@ def group_ten():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2209,7 +2209,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2217,7 +2217,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2225,7 +2225,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -2233,7 +2233,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2241,7 +2241,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2249,7 +2249,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2257,7 +2257,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2265,7 +2265,7 @@ def group_ten():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2273,7 +2273,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -2281,7 +2281,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2289,7 +2289,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2297,7 +2297,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2305,7 +2305,7 @@ def group_ten():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_eleven():
     # oct6
@@ -2314,7 +2314,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2322,7 +2322,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -2330,7 +2330,7 @@ def group_eleven():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2338,7 +2338,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(F6)
     # oct5
@@ -2346,7 +2346,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2354,7 +2354,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -2362,7 +2362,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2370,7 +2370,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2378,7 +2378,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2386,7 +2386,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2394,7 +2394,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2402,7 +2402,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2410,7 +2410,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2418,7 +2418,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2426,7 +2426,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2434,7 +2434,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -2442,7 +2442,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2450,7 +2450,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2458,7 +2458,7 @@ def group_eleven():
     # oct4
     # oct3
     play(F2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2466,7 +2466,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2474,7 +2474,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2482,7 +2482,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Ds6)
     # oct5
@@ -2490,7 +2490,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2498,7 +2498,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(Cs6)
     # oct5
@@ -2506,7 +2506,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2514,7 +2514,7 @@ def group_eleven():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_twelve():
     play(C6)
@@ -2523,7 +2523,7 @@ def group_twelve():
     # oct4
     play(F3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2531,7 +2531,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -2539,7 +2539,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2547,7 +2547,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     play(C6)
     # oct5
@@ -2555,7 +2555,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -2563,7 +2563,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(As5)
@@ -2571,7 +2571,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2579,7 +2579,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -2587,7 +2587,7 @@ def group_twelve():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2595,7 +2595,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -2603,7 +2603,7 @@ def group_twelve():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -2611,7 +2611,7 @@ def group_twelve():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2619,7 +2619,7 @@ def group_twelve():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2627,7 +2627,7 @@ def group_twelve():
     play(C4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2635,7 +2635,7 @@ def group_twelve():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2643,7 +2643,7 @@ def group_twelve():
     play(C4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2651,7 +2651,7 @@ def group_twelve():
     play(Cs4)
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2659,7 +2659,7 @@ def group_twelve():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2667,7 +2667,7 @@ def group_twelve():
     play(Ds4)
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2675,7 +2675,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Ds5)
@@ -2683,7 +2683,7 @@ def group_twelve():
     # oct4
     # oct3
     play(As2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2691,7 +2691,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -2699,7 +2699,7 @@ def group_twelve():
     # oct4
     play(As3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2707,7 +2707,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -2715,7 +2715,7 @@ def group_twelve():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2723,7 +2723,7 @@ def group_twelve():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 def group_thirteen():
     # oct6
@@ -2732,7 +2732,7 @@ def group_thirteen():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -2740,7 +2740,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2748,7 +2748,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2756,7 +2756,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2764,7 +2764,7 @@ def group_thirteen():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2772,7 +2772,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2780,7 +2780,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2788,7 +2788,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2796,7 +2796,7 @@ def group_thirteen():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2804,7 +2804,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -2812,7 +2812,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2820,7 +2820,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Gs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Cs5)
@@ -2828,7 +2828,7 @@ def group_thirteen():
     play(As4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2836,7 +2836,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(C5)
@@ -2844,7 +2844,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2852,7 +2852,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(Gs5)
@@ -2860,7 +2860,7 @@ def group_thirteen():
     # oct4
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     play(F5)
@@ -2868,7 +2868,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2876,7 +2876,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2884,7 +2884,7 @@ def group_thirteen():
     play(Ds4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2892,7 +2892,7 @@ def group_thirteen():
     play(Cs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2900,7 +2900,7 @@ def group_thirteen():
     play(Ds4)
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2908,7 +2908,7 @@ def group_thirteen():
     play(F4)
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2916,7 +2916,7 @@ def group_thirteen():
     # oct4
     # oct3
     play(Fs2)
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2924,7 +2924,7 @@ def group_thirteen():
     play(Fs4)
     play(Gs3)
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
     # oct6
     # oct5
@@ -2932,7 +2932,7 @@ def group_thirteen():
     # oct4
     # oct3
     # oct2
-    sleep(0.115)
+    sleep(0.114)
 
 group_zero()
 group_one()
