@@ -1682,8 +1682,8 @@ def group_seven():
 
 def group_eight():
     # oct6
-    play(Ds5)
     play(C5)
+    play(Ds5)
     # oct4
     # oct3
     play(F2)
@@ -1730,8 +1730,8 @@ def group_eight():
     sleep(0.11)
 
     # oct6
-    play(Cs5)
     play(As5)
+    play(Cs5)
     # oct4
     # oct3
     play(Fs2)
@@ -1774,15 +1774,7 @@ def group_eight():
     # oct5
     # oct4
     # oct3
-    # oct2
-    sleep(0.11)
-
-    play(Cs6)
-    # oct5
-    # oct5
-    # oct4
-    # oct3
-    # oct2
+    play(Gs2)
     sleep(0.11)
 
     # oct6
@@ -1818,8 +1810,8 @@ def group_eight():
     sleep(0.11)
 
     # oct6
-    play(Ds5)
     play(C5)
+    play(Ds5)
     # oct4
     # oct3
     play(As2)
@@ -1842,8 +1834,8 @@ def group_eight():
     sleep(0.11)
 
     # oct6
-    play(As5)
     play(Cs5)
+    play(As5)
     # oct4
     # oct3
     play(As2)
@@ -1866,35 +1858,11 @@ def group_eight():
     sleep(0.11)
 
     # oct6
-    play(Cs5)
     # oct5
-    play(As4)
-    # oct3
-    # oct2
-    sleep(0.11)
-
-    # oct6
-    play(As5)
-    play(Cs5)
+    # oct5
     # oct4
     # oct3
     play(As2)
-    sleep(0.11)
-
-    # oct6
-    # oct5
-    # oct5
-    # oct4
-    # oct3
-    # oct2
-    sleep(0.11)
-
-    # oct6
-    # oct5
-    # oct5
-    # oct4
-    # oct3
-    # oct2
     sleep(0.11)
 
     # oct6
@@ -1906,8 +1874,8 @@ def group_eight():
     sleep(0.11)
 
     # oct6
-    play(C5)
     play(Ds5)
+    play(C5)
     # oct4
     # oct3
     play(Gs2)
