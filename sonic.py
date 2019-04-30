@@ -3761,6 +3761,215 @@ def group_seventeen():
     play(Fs2)
     sleep(0.114)
 
+def group_eighteen():
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    play(As5)
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Fs2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(Fs3)
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(Cs5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.114)
+
+    play(Cs6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(C5)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    play(C6)
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(As5)
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    play(Gs4)
+    # oct3
+    play(Gs2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(Gs5)
+    # oct4
+    play(Gs3)
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(Cs5)
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    play(Cs5)
+    play(As5)
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    play(As2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    play(As3)
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    play(Ds5)
+    play(C5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    play(Cs5)
+    play(As4)
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    play(Cs5)
+    play(As5)
+    # oct4
+    # oct3
+    play(Gs2)
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
+    # oct6
+    # oct5
+    # oct5
+    # oct4
+    # oct3
+    # oct2
+    sleep(0.114)
+
 group_zero()
 group_one()
 group_two()
@@ -3779,3 +3988,4 @@ group_fourtheen()
 group_fifteen()
 group_sixteen()
 group_seventeen()
+group_eighteen()
